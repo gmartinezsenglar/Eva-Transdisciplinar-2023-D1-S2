@@ -17,4 +17,10 @@ Observemos que en este ejemplo no nos proporcionan la masa del balón, pero si s
 
 ## Programación
 
+Para la parte de programación de este proyecto, hemos optado por usar la librería Tkinter siguiendo las recomendaciones de librerias de Python del texto explicativo de este trabajo. 
 
+### Para la instalación de Python:
+
+**Primero:** Ir al [sitio oficial de Python](https://www.python.org/downloads/)
+
+-- Continuará...
