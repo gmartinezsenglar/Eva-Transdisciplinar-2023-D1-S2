@@ -2,7 +2,7 @@
 
 ## Descripción
 
-En esta proyecto trabajaremos la energía cinética para resolver un problema utilizando el programa de python con los calculos de la energía cinética tambien mostraremos a seguir todos los pasos de como utilizar cada programa o calculo 
+En este proyecto trabajaremos la energía cinética para resolver un problema utilizando el programa de python con los calculos de la energía cinética tambien mostraremos a seguir todos los pasos de como utilizar cada programa o calculo 
 
 ## Evento fisico a simular
 
